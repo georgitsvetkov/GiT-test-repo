@@ -40,16 +40,16 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 You can make an unordered list by preceding one or more lines of text with - or *.
 
-- Alvaro Washington
-- Alvaro Adams
-- Alvaro Jefferson
+-  Washington
+-  Adams
+-  Jefferson
 Rendered unordered list
 
 To order your list, precede each line with a number.
 
-1. Alvaro Madison
-2. Alvaro Monroe
-3. Alvaro Quincy Adams
+1.  Madison
+2.  Monroe
+3.  Quincy Adams
 
 
 ### Nested lists
@@ -94,7 +94,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
-![This is an image](https://twitter.com/RealGrumpyCat/status/457890613711482881/photo/1)
+![This is an image](https://m.facebook.com/TheOfficialGrumpyCat/photos/a.439212206114522/1614183255284072/?type=3&source=44&locale2=nl_NL)
 
 
 
