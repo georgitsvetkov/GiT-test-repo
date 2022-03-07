@@ -94,7 +94,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
-![This is an image](https://m.facebook.com/TheOfficialGrumpyCat/photos/a.439212206114522/1614183255284072/?type=3&source=44&locale2=nl_NL)
+![This is an image](https://icdn.digitaltrends.com/image/digitaltrends/business130930_grumpycat_2_560-560x760.jpg)
 
 
 
