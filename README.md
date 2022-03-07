@@ -1,5 +1,7 @@
 # GiT-test-repo - basic formating
 
+## Sample repo with markdown formats (gh repo)
+
 
 # The largest heading
 ## The second largest heading
