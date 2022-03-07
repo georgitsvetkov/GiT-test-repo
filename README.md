@@ -1,5 +1,4 @@
-# GiT-test-repo
-<<<<<<< basic-writing-formating
+# GiT-test-repo - basic-writing-formating
 
 
 # The largest heading
